@@ -1371,7 +1371,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 ```
-Enter your name: Anuradha
+Enter your name: Bhuvaneshwari
 Hello Anuradha, welcome to my program. 
 
 ```
